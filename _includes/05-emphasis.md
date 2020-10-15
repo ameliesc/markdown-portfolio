@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can become a __world leader__ or a _world leader_ the possibilities are _endless_ __endless__ __!__
